@@ -1,0 +1,46 @@
+GOAL:
+
+CLOSE THE WINDOW
+
+METHOD 1 (USING MOUSE):
+
+1. M (Mental Preparation) = 1.35 sec
+2. H (Move hand from keyboard - mouse) = 0.40 sec
+3. P (Point to the close button 'X') = 1.10 sec
+4. K (Mouse click on 'X' button) = 0.28 sec
+
+TOTAL EXECUTION TIME:
+
+= M + H + P + K
+
+= 1.35 + 0.40 + 1.10 + 0.28
+= 3.13 seconds
+
+KEY HITS (K): 1
+
+HOMING (H): 1
+POINTING (P): 1
+METHOD 2 (USING KEYBOARD SHORTCUT - ALT + F4):
+1. M (Mental Preparation) = 1.35 sec
+2. K (Press ALT key) = 0.28 sec
+3. K (Press F4 key) = 0.28 sec
+
+TOTAL EXECUTION TIME:
+= M + K + K
+
+= 1.35 + 0.28 + 0.28
+
+= 1.91 seconds
+
+KEY HITS (K): 2
+HOMING (H): 0
+POINTING (P): 0
+
+SELECTION RULE:
+
+. If the user's hand is already on the mouse, use Method 1 (Mouse).
+. If the user is typing or using the keyboard, use Method 2 (Alt + F4) since it's faster (1.91 sec).
+
+Final Conclusion:
+Both methods achieve the goal, but using the keybo shortcut (Alt + F4) is more efficient in terms of time
+and fewer phvsical actions.

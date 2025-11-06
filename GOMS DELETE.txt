@@ -1,0 +1,48 @@
+GOAL:
+
+DELETE THE MAIL
+
+METHOD 1 (Using Mouse):
+1. M (Mental Preparation) = 1.35 sec
+- User decides to delete the selected mail.
+
+2. H (Move hand from keyboard - mouse) = 0.40 sec
+3. P (Point to the mail item) = 1.10 sec
+4. K (Click to select the mail) = 0.28 sec
+5. P (Point to the "Delete" icon) = 1.10 sec
+6. K (Click on "Delete" icon) = 0.28 sec
+
+TOTAL EXECUTION TIME:
+
+= M + H + P + K + P + K
+
+=1.35 +0.40 + 1.10 + 0.28 + 1.10 + 0.28
+
+= 4.51 seconds
+
+KEY HITS (K): 2
+HOMING (H): 1
+POINTING (P): 2
+
+METHOD 2 (Using Keyboard Shortcut):
+1. M (Mental Preparation) = 1.35 sec
+- User decides to delete the selected mail.
+2. K (Press Delete key) = 0.28 sec
+
+TOTAL EXECUTION TIME:
+
+= M + K
+
+= 1.35 + 0.28
+
+= 1.63 seconds
+
+KEY HITS (K): 1
+HOMING (H): 0
+POINTING (P): 0
+
+SELECTION RULE:
+
+. If the mail is already selected and the user is typing, use Method 2 (Keyboard) - it is faster (1.63 sec).
+. If the user is using the mouse to browse mails, use Method 1 (Mouse) - no need to switch input
+device.
